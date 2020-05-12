@@ -8,9 +8,9 @@ This is the repositrory for COMP4471 Final project
 > email: ysunbp@connect.ust.hk
 
 ## Reports
-> [Project Proposal]
+> [Project Proposal](https://github.com/ysunbp/Final-project/blob/master/reports/COMP4471%20Project%20Proposal.pdf)
 
-> [Milestone Report]
+> [Milestone Report](https://github.com/ysunbp/Final-project/blob/master/reports/COMP_4471_Milestone.pdf)
 
 > [Presentation ppt]
 
