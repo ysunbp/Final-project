@@ -9,11 +9,16 @@ This is the repositrory for COMP4471 Final project
 
 ## Reports
 > [Project Proposal]
+
 > [Milestone Report]
+
 > [Presentation ppt]
+
 > [Final Report]
 
 ## Codes
 > [Phase 1]
+
 > [Phase 2]
+
 > [Bone-suppression]
