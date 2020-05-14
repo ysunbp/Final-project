@@ -1,0 +1,1 @@
+This part we use CycleGAN to suppress the shadow casted by the bones and enhance the quality of X-ray scans.
