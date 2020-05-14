@@ -1,0 +1,1 @@
+This phase we use transfer learning to train VGG-16, Resnet and Squeezenet on the dataset to classify pneumonia scans from the healthy scans.
