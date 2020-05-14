@@ -1,0 +1,1 @@
+This phase we trained VGG-16 on the dataset to classify COVID-19 scans from the pneumonia(bacterial or viral) scans.
