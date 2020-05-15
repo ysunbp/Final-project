@@ -12,7 +12,7 @@ This is the repositrory for COMP4471 Final project
 
 > [Milestone Report](https://github.com/ysunbp/Final-project/blob/master/reports/COMP_4471_Milestone.pdf)
 
-> [Presentation ppt]
+> [Presentation ppt](https://github.com/ysunbp/Final-project/blob/master/reports/Detecting%20COVID-19%20via%20Chest%20X-rays%20Using%20Deep%20Learning.pdf)
 
 > [Final Report]
 
