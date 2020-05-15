@@ -17,8 +17,8 @@ This is the repositrory for COMP4471 Final project
 > [Final Report]
 
 ## Codes
-> [Phase 1]
+> [Phase 1](https://github.com/ysunbp/Final-project/tree/master/Phase1)
 
-> [Phase 2]
+> [Phase 2](https://github.com/ysunbp/Final-project/tree/master/Phase2)
 
-> [Bone-suppression]
+> [Bone-suppression](https://github.com/ysunbp/Final-project/tree/master/Bone-suppression)
