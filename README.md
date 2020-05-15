@@ -21,4 +21,4 @@ This is the repositrory for COMP4471 Final project
 
 > [Phase 2](https://github.com/ysunbp/Final-project/tree/master/Phase2)
 
-> [Bone-suppression](https://github.com/ysunbp/Final-project/tree/master/Bone-suppression)
+> [Bone-suppression](https://github.com/ysunbp/Final-project/tree/master/bone-suppress)
