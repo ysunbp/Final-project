@@ -14,7 +14,7 @@ This is the repositrory for COMP4471 Final project
 
 > [Presentation ppt](https://github.com/ysunbp/Final-project/blob/master/reports/Detecting%20COVID-19%20via%20Chest%20X-rays%20Using%20Deep%20Learning.pdf)
 
-> [Final Report]
+> [Final Report](https://github.com/ysunbp/Final-project/blob/master/reports/COMP4471_Final_Report.pdf)
 
 ## Codes
 > [Phase 1](https://github.com/ysunbp/Final-project/tree/master/Phase1)
